@@ -46,3 +46,10 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+### My elastic beanstalk deployment endpoint
+http://image-filter-thuclv-dev3.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://video.udacity-data.com/topher/2021/August/611f8915_screenshot-2021-08-20-at-4.19.02-pm/screenshot-2021-08-20-at-4.19.02-pm.png
+
+
+### My GitHub for source code has been deployed.
+https://github.com/nobody54985/image-filter-thuclv.git
